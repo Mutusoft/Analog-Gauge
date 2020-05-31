@@ -1,0 +1,5 @@
+gauge.c:13:8:to_int	16	static
+gauge.c:19:9:to_uint	16	static
+gauge.c:25:6:Gauge_DrawInnerArc	48	static
+gauge.c:49:6:Gauge_ValuePct	64	static
+gauge.c:90:6:Gauge_Init	72	static
